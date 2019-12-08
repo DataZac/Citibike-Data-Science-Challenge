@@ -8,4 +8,4 @@ Repo contains notebooks for
 
 ### Visualization and results
 
-![](/Pictures/10_7-PDF_Citibike_case_study_trautmann.pdf?raw=true)
+![](/Pictures/Folie3.PNG?raw=true)
